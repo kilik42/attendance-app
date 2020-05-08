@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "4bbdb6c60546974e54414de64cfec6c4"
+build_time: [1588914510, 556144000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/ViewController.swift": [1588823116, 230420699]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/HomeController.swift": [1588909559, 662238771]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/MenuTableViewController.swift": [1588826941, 158212083]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/View/StudentCell.swift": [1588914510, 477314949]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/AppDelegate.swift": [1588807145, 48493159]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/SceneDelegate.swift": [1588807145, 60814445]
+  "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/model/Student.swift": [1588911099, 363261708]

@@ -1,0 +1,437 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StudentCell"
+provides-nominal:
+- "17AttendanceAppKing11StudentCellC"
+provides-member:
+- ["17AttendanceAppKing11StudentCellC", ""]
+provides-dynamic-lookup:
+- "absences"
+- "configureCell"
+- "email"
+- "first_name"
+- "id"
+- "last_name"
+- "student"
+- "tardies"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Student"
+- "StudentCell"
+- "UICollectionViewCell"
+- "UILabel"
+depends-member:
+- !private ["SK", "capitalized"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "email"]
+- !private ["So15CALayerDelegateP", "first_name"]
+- !private ["So15CALayerDelegateP", "id"]
+- !private ["So15CALayerDelegateP", "last_name"]
+- !private ["So15CALayerDelegateP", "student"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "capitalized"]
+- !private ["s7CVarArgP", "email"]
+- !private ["s7CVarArgP", "first_name"]
+- !private ["s7CVarArgP", "id"]
+- !private ["s7CVarArgP", "last_name"]
+- !private ["s7CVarArgP", "student"]
+- !private ["s7CVarArgP", "text"]
+- !private ["Sl", "capitalized"]
+- !private ["SL", "capitalized"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "capitalized"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "first_name"]
+- !private ["s28CustomDebugStringConvertibleP", "id"]
+- !private ["s28CustomDebugStringConvertibleP", "last_name"]
+- !private ["s28CustomDebugStringConvertibleP", "student"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s17CustomReflectableP", "capitalized"]
+- !private ["s17CustomReflectableP", "email"]
+- !private ["s17CustomReflectableP", "first_name"]
+- !private ["s17CustomReflectableP", "id"]
+- !private ["s17CustomReflectableP", "last_name"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "capitalized"]
+- !private ["s23CustomStringConvertibleP", "email"]
+- !private ["s23CustomStringConvertibleP", "first_name"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "last_name"]
+- !private ["s23CustomStringConvertibleP", "student"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["Se", "capitalized"]
+- !private ["Se", "email"]
+- !private ["Se", "first_name"]
+- !private ["Se", "id"]
+- !private ["Se", "last_name"]
+- !private ["Se", "text"]
+- !private ["SE", "capitalized"]
+- !private ["SE", "email"]
+- !private ["SE", "first_name"]
+- !private ["SE", "id"]
+- !private ["SE", "last_name"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "capitalized"]
+- !private ["SQ", "email"]
+- !private ["SQ", "first_name"]
+- !private ["SQ", "id"]
+- !private ["SQ", "last_name"]
+- !private ["SQ", "student"]
+- !private ["SQ", "text"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "capitalized"]
+- !private ["s23ExpressibleByNilLiteralP", "email"]
+- !private ["s23ExpressibleByNilLiteralP", "first_name"]
+- !private ["s23ExpressibleByNilLiteralP", "id"]
+- !private ["s23ExpressibleByNilLiteralP", "last_name"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "capitalized"]
+- !private ["s26ExpressibleByStringLiteralP", "capitalized"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "capitalized"]
+- ["SH", ""]
+- !private ["SH", "capitalized"]
+- !private ["SH", "email"]
+- !private ["SH", "first_name"]
+- !private ["SH", "id"]
+- !private ["SH", "last_name"]
+- !private ["SH", "student"]
+- !private ["SH", "text"]
+- !private ["s25LosslessStringConvertibleP", "capitalized"]
+- !private ["s10MirrorPathP", "capitalized"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "capitalized"]
+- !private ["So8NSCodingP", "email"]
+- !private ["So8NSCodingP", "first_name"]
+- !private ["So8NSCodingP", "id"]
+- !private ["So8NSCodingP", "last_name"]
+- !private ["So8NSCodingP", "student"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So9NSCopyingP", "capitalized"]
+- !private ["So21NSItemProviderReadingP", "capitalized"]
+- !private ["So21NSItemProviderWritingP", "capitalized"]
+- !private ["So16NSMutableCopyingP", "capitalized"]
+- ["So8NSObjectC", "Student"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "absences"]
+- !private ["So8NSObjectC", "capitalized"]
+- ["So8NSObjectC", "configureCell"]
+- ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "first_name"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "last_name"]
+- ["So8NSObjectC", "student"]
+- ["So8NSObjectC", "tardies"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "capitalized"]
+- !private ["So8NSObjectP", "email"]
+- !private ["So8NSObjectP", "first_name"]
+- !private ["So8NSObjectP", "id"]
+- !private ["So8NSObjectP", "last_name"]
+- !private ["So8NSObjectP", "student"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So14NSSecureCodingP", "capitalized"]
+- !private ["So8NSStringC", "capitalized"]
+- !private ["Sq", "email"]
+- !private ["Sq", "first_name"]
+- !private ["Sq", "id"]
+- !private ["Sq", "last_name"]
+- !private ["Sq", "text"]
+- !private ["Sm", "capitalized"]
+- !private ["ST", "capitalized"]
+- !private ["SS", "capitalized"]
+- !private ["Sy", "capitalized"]
+- !private ["17AttendanceAppKing7StudentC", "email"]
+- !private ["17AttendanceAppKing7StudentC", "first_name"]
+- !private ["17AttendanceAppKing7StudentC", "id"]
+- !private ["17AttendanceAppKing7StudentC", "last_name"]
+- ["17AttendanceAppKing11StudentCellC", "Student"]
+- ["17AttendanceAppKing11StudentCellC", "UILabel"]
+- ["17AttendanceAppKing11StudentCellC", "absences"]
+- ["17AttendanceAppKing11StudentCellC", "configureCell"]
+- ["17AttendanceAppKing11StudentCellC", "deinit"]
+- ["17AttendanceAppKing11StudentCellC", "email"]
+- ["17AttendanceAppKing11StudentCellC", "first_name"]
+- ["17AttendanceAppKing11StudentCellC", "id"]
+- ["17AttendanceAppKing11StudentCellC", "init"]
+- ["17AttendanceAppKing11StudentCellC", "last_name"]
+- ["17AttendanceAppKing11StudentCellC", "student"]
+- ["17AttendanceAppKing11StudentCellC", "tardies"]
+- !private ["s16TextOutputStreamP", "capitalized"]
+- !private ["s20TextOutputStreamableP", "capitalized"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "email"]
+- !private ["So29UIAccessibilityIdentificationP", "first_name"]
+- !private ["So29UIAccessibilityIdentificationP", "id"]
+- !private ["So29UIAccessibilityIdentificationP", "last_name"]
+- !private ["So29UIAccessibilityIdentificationP", "student"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "email"]
+- !private ["So12UIAppearanceP", "first_name"]
+- !private ["So12UIAppearanceP", "id"]
+- !private ["So12UIAppearanceP", "last_name"]
+- !private ["So12UIAppearanceP", "student"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "email"]
+- !private ["So21UIAppearanceContainerP", "first_name"]
+- !private ["So21UIAppearanceContainerP", "id"]
+- !private ["So21UIAppearanceContainerP", "last_name"]
+- !private ["So21UIAppearanceContainerP", "student"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So24UICollectionReusableViewC", "Student"]
+- ["So24UICollectionReusableViewC", "UILabel"]
+- ["So24UICollectionReusableViewC", "absences"]
+- ["So24UICollectionReusableViewC", "configureCell"]
+- ["So24UICollectionReusableViewC", "email"]
+- ["So24UICollectionReusableViewC", "first_name"]
+- ["So24UICollectionReusableViewC", "id"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So24UICollectionReusableViewC", "last_name"]
+- ["So24UICollectionReusableViewC", "student"]
+- ["So24UICollectionReusableViewC", "tardies"]
+- ["So20UICollectionViewCellC", "Student"]
+- ["So20UICollectionViewCellC", "UILabel"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "absences"]
+- ["So20UICollectionViewCellC", "configureCell"]
+- ["So20UICollectionViewCellC", "email"]
+- ["So20UICollectionViewCellC", "first_name"]
+- ["So20UICollectionViewCellC", "id"]
+- ["So20UICollectionViewCellC", "init"]
+- ["So20UICollectionViewCellC", "last_name"]
+- ["So20UICollectionViewCellC", "student"]
+- ["So20UICollectionViewCellC", "tardies"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "email"]
+- !private ["So17UICoordinateSpaceP", "first_name"]
+- !private ["So17UICoordinateSpaceP", "id"]
+- !private ["So17UICoordinateSpaceP", "last_name"]
+- !private ["So17UICoordinateSpaceP", "student"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "email"]
+- !private ["So13UIDynamicItemP", "first_name"]
+- !private ["So13UIDynamicItemP", "id"]
+- !private ["So13UIDynamicItemP", "last_name"]
+- !private ["So13UIDynamicItemP", "student"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "email"]
+- !private ["So18UIFocusEnvironmentP", "first_name"]
+- !private ["So18UIFocusEnvironmentP", "id"]
+- !private ["So18UIFocusEnvironmentP", "last_name"]
+- !private ["So18UIFocusEnvironmentP", "student"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "email"]
+- !private ["So11UIFocusItemP", "first_name"]
+- !private ["So11UIFocusItemP", "id"]
+- !private ["So11UIFocusItemP", "last_name"]
+- !private ["So11UIFocusItemP", "student"]
+- !private ["So11UIFocusItemP", "text"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "email"]
+- !private ["So20UIFocusItemContainerP", "first_name"]
+- !private ["So20UIFocusItemContainerP", "id"]
+- !private ["So20UIFocusItemContainerP", "last_name"]
+- !private ["So20UIFocusItemContainerP", "student"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "email"]
+- !private ["So24UILargeContentViewerItemP", "first_name"]
+- !private ["So24UILargeContentViewerItemP", "id"]
+- !private ["So24UILargeContentViewerItemP", "last_name"]
+- !private ["So24UILargeContentViewerItemP", "student"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "email"]
+- !private ["So30UIPasteConfigurationSupportingP", "first_name"]
+- !private ["So30UIPasteConfigurationSupportingP", "id"]
+- !private ["So30UIPasteConfigurationSupportingP", "last_name"]
+- !private ["So30UIPasteConfigurationSupportingP", "student"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So11UIResponderC", "Student"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "absences"]
+- ["So11UIResponderC", "configureCell"]
+- ["So11UIResponderC", "email"]
+- ["So11UIResponderC", "first_name"]
+- ["So11UIResponderC", "id"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "last_name"]
+- ["So11UIResponderC", "student"]
+- ["So11UIResponderC", "tardies"]
+- !private ["So11UIResponderC", "text"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "email"]
+- !private ["So30UIResponderStandardEditActionsP", "first_name"]
+- !private ["So30UIResponderStandardEditActionsP", "id"]
+- !private ["So30UIResponderStandardEditActionsP", "last_name"]
+- !private ["So30UIResponderStandardEditActionsP", "student"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "email"]
+- !private ["So18UITraitEnvironmentP", "first_name"]
+- !private ["So18UITraitEnvironmentP", "id"]
+- !private ["So18UITraitEnvironmentP", "last_name"]
+- !private ["So18UITraitEnvironmentP", "student"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "email"]
+- !private ["So23UIUserActivityRestoringP", "first_name"]
+- !private ["So23UIUserActivityRestoringP", "id"]
+- !private ["So23UIUserActivityRestoringP", "last_name"]
+- !private ["So23UIUserActivityRestoringP", "student"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So6UIViewC", "Student"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "absences"]
+- ["So6UIViewC", "configureCell"]
+- ["So6UIViewC", "email"]
+- ["So6UIViewC", "first_name"]
+- ["So6UIViewC", "id"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "last_name"]
+- ["So6UIViewC", "student"]
+- ["So6UIViewC", "tardies"]
+- !private ["So6UIViewC", "text"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "capitalized"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "capitalized"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "capitalized"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "capitalized"]
+- !private ["s19_HasContiguousBytesP", "capitalized"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "capitalized"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "capitalized"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "email"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "first_name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "id"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "last_name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "student"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "capitalized"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "email"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "first_name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "id"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "last_name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "student"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "capitalized"]
+- !private ["s21_ObjectiveCBridgeableP", "email"]
+- !private ["s21_ObjectiveCBridgeableP", "first_name"]
+- !private ["s21_ObjectiveCBridgeableP", "id"]
+- !private ["s21_ObjectiveCBridgeableP", "last_name"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "email"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "first_name"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "id"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "last_name"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "student"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sq"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "17AttendanceAppKing7StudentC"
+- "17AttendanceAppKing11StudentCellC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/AttendanceAppKing-Bridging-Header.h"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c8aa7957b07db5e853bf468496efdd46"

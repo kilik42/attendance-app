@@ -1,0 +1,354 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeController"
+provides-nominal:
+- "17AttendanceAppKing14HomeControllerC"
+provides-member:
+- ["17AttendanceAppKing14HomeControllerC", ""]
+provides-dynamic-lookup:
+- "menuButton"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "HomeController"
+- !private "SWRevealViewController"
+- "UIBarButtonItem"
+- "UIViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "SWRevealViewController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "action"]
+- !private ["s7CVarArgP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "menuButton"]
+- !private ["s7CVarArgP", "panGestureRecognizer"]
+- !private ["s7CVarArgP", "revealToggle"]
+- !private ["s7CVarArgP", "revealViewController"]
+- !private ["s7CVarArgP", "target"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "SWRevealViewController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "action"]
+- !private ["s28CustomDebugStringConvertibleP", "addGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "menuButton"]
+- !private ["s28CustomDebugStringConvertibleP", "panGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "revealToggle"]
+- !private ["s28CustomDebugStringConvertibleP", "revealViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "target"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "action"]
+- !private ["s17CustomReflectableP", "addGestureRecognizer"]
+- !private ["s17CustomReflectableP", "panGestureRecognizer"]
+- !private ["s17CustomReflectableP", "target"]
+- !private ["s23CustomStringConvertibleP", "SWRevealViewController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "action"]
+- !private ["s23CustomStringConvertibleP", "addGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "menuButton"]
+- !private ["s23CustomStringConvertibleP", "panGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "revealToggle"]
+- !private ["s23CustomStringConvertibleP", "revealViewController"]
+- !private ["s23CustomStringConvertibleP", "target"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "action"]
+- !private ["Se", "addGestureRecognizer"]
+- !private ["Se", "panGestureRecognizer"]
+- !private ["Se", "target"]
+- !private ["SE", "action"]
+- !private ["SE", "addGestureRecognizer"]
+- !private ["SE", "panGestureRecognizer"]
+- !private ["SE", "target"]
+- !private ["SQ", "SWRevealViewController"]
+- ["SQ", ""]
+- !private ["SQ", "action"]
+- !private ["SQ", "addGestureRecognizer"]
+- !private ["SQ", "menuButton"]
+- !private ["SQ", "panGestureRecognizer"]
+- !private ["SQ", "revealToggle"]
+- !private ["SQ", "revealViewController"]
+- !private ["SQ", "target"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "action"]
+- !private ["s23ExpressibleByNilLiteralP", "addGestureRecognizer"]
+- !private ["s23ExpressibleByNilLiteralP", "panGestureRecognizer"]
+- !private ["s23ExpressibleByNilLiteralP", "target"]
+- !private ["SH", "SWRevealViewController"]
+- ["SH", ""]
+- !private ["SH", "action"]
+- !private ["SH", "addGestureRecognizer"]
+- !private ["SH", "menuButton"]
+- !private ["SH", "panGestureRecognizer"]
+- !private ["SH", "revealToggle"]
+- !private ["SH", "revealViewController"]
+- !private ["SH", "target"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["17AttendanceAppKing14HomeControllerC", "SWRevealViewController"]
+- ["17AttendanceAppKing14HomeControllerC", "UIBarButtonItem"]
+- ["17AttendanceAppKing14HomeControllerC", "deinit"]
+- ["17AttendanceAppKing14HomeControllerC", "init"]
+- ["17AttendanceAppKing14HomeControllerC", "menuButton"]
+- !private ["17AttendanceAppKing14HomeControllerC", "revealViewController"]
+- !private ["17AttendanceAppKing14HomeControllerC", "view"]
+- ["17AttendanceAppKing14HomeControllerC", "viewDidLoad"]
+- !private ["So8NSCodingP", "SWRevealViewController"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "action"]
+- !private ["So8NSCodingP", "addGestureRecognizer"]
+- !private ["So8NSCodingP", "menuButton"]
+- !private ["So8NSCodingP", "panGestureRecognizer"]
+- !private ["So8NSCodingP", "revealToggle"]
+- !private ["So8NSCodingP", "revealViewController"]
+- !private ["So8NSCodingP", "target"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "SWRevealViewController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "menuButton"]
+- !private ["So26NSExtensionRequestHandlingP", "panGestureRecognizer"]
+- !private ["So26NSExtensionRequestHandlingP", "revealToggle"]
+- !private ["So26NSExtensionRequestHandlingP", "revealViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "SWRevealViewController"]
+- ["So8NSObjectC", "UIBarButtonItem"]
+- !private ["So8NSObjectC", "action"]
+- !private ["So8NSObjectC", "addGestureRecognizer"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "menuButton"]
+- !private ["So8NSObjectC", "panGestureRecognizer"]
+- !private ["So8NSObjectC", "revealToggle"]
+- !private ["So8NSObjectC", "revealViewController"]
+- !private ["So8NSObjectC", "target"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "SWRevealViewController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "action"]
+- !private ["So8NSObjectP", "addGestureRecognizer"]
+- !private ["So8NSObjectP", "menuButton"]
+- !private ["So8NSObjectP", "panGestureRecognizer"]
+- !private ["So8NSObjectP", "revealToggle"]
+- !private ["So8NSObjectP", "revealViewController"]
+- !private ["So8NSObjectP", "target"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "action"]
+- !private ["Sq", "addGestureRecognizer"]
+- !private ["Sq", "panGestureRecognizer"]
+- !private ["Sq", "target"]
+- !private ["So22SWRevealViewControllerC", "panGestureRecognizer"]
+- !private ["So22SWRevealViewControllerC", "revealToggle"]
+- !private ["So29UIAccessibilityIdentificationP", "action"]
+- !private ["So29UIAccessibilityIdentificationP", "addGestureRecognizer"]
+- !private ["So29UIAccessibilityIdentificationP", "target"]
+- !private ["So12UIAppearanceP", "action"]
+- !private ["So12UIAppearanceP", "addGestureRecognizer"]
+- !private ["So12UIAppearanceP", "target"]
+- !private ["So21UIAppearanceContainerP", "SWRevealViewController"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "menuButton"]
+- !private ["So21UIAppearanceContainerP", "panGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "revealToggle"]
+- !private ["So21UIAppearanceContainerP", "revealViewController"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So15UIBarButtonItemC", "action"]
+- !private ["So15UIBarButtonItemC", "target"]
+- !private ["So9UIBarItemC", "action"]
+- !private ["So9UIBarItemC", "target"]
+- !private ["So18UIContentContainerP", "SWRevealViewController"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "menuButton"]
+- !private ["So18UIContentContainerP", "panGestureRecognizer"]
+- !private ["So18UIContentContainerP", "revealToggle"]
+- !private ["So18UIContentContainerP", "revealViewController"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "addGestureRecognizer"]
+- !private ["So13UIDynamicItemP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "SWRevealViewController"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "menuButton"]
+- !private ["So18UIFocusEnvironmentP", "panGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "revealToggle"]
+- !private ["So18UIFocusEnvironmentP", "revealViewController"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addGestureRecognizer"]
+- !private ["So20UIFocusItemContainerP", "addGestureRecognizer"]
+- !private ["So24UILargeContentViewerItemP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "SWRevealViewController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "menuButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "panGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "revealToggle"]
+- !private ["So30UIPasteConfigurationSupportingP", "revealViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "SWRevealViewController"]
+- ["So11UIResponderC", "UIBarButtonItem"]
+- !private ["So11UIResponderC", "addGestureRecognizer"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "menuButton"]
+- !private ["So11UIResponderC", "panGestureRecognizer"]
+- !private ["So11UIResponderC", "revealToggle"]
+- !private ["So11UIResponderC", "revealViewController"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "SWRevealViewController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "menuButton"]
+- !private ["So30UIResponderStandardEditActionsP", "panGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "revealToggle"]
+- !private ["So30UIResponderStandardEditActionsP", "revealViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "action"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "target"]
+- !private ["So16UIStateRestoringP", "SWRevealViewController"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "menuButton"]
+- !private ["So16UIStateRestoringP", "panGestureRecognizer"]
+- !private ["So16UIStateRestoringP", "revealToggle"]
+- !private ["So16UIStateRestoringP", "revealViewController"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "SWRevealViewController"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "menuButton"]
+- !private ["So18UITraitEnvironmentP", "panGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "revealToggle"]
+- !private ["So18UITraitEnvironmentP", "revealViewController"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "SWRevealViewController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "menuButton"]
+- !private ["So23UIUserActivityRestoringP", "panGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "revealToggle"]
+- !private ["So23UIUserActivityRestoringP", "revealViewController"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addGestureRecognizer"]
+- !private ["So16UIViewControllerC", "SWRevealViewController"]
+- ["So16UIViewControllerC", "UIBarButtonItem"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "menuButton"]
+- !private ["So16UIViewControllerC", "panGestureRecognizer"]
+- !private ["So16UIViewControllerC", "revealToggle"]
+- !private ["So16UIViewControllerC", "revealViewController"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SWRevealViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "action"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "menuButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "panGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "revealToggle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "revealViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "target"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SWRevealViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "action"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addGestureRecognizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "menuButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "panGestureRecognizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "revealToggle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "revealViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "target"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "action"]
+- !private ["s21_ObjectiveCBridgeableP", "addGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "panGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "target"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "17AttendanceAppKing14HomeControllerC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So22SWRevealViewControllerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So15UIBarButtonItemC"
+- !private "So9UIBarItemC"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/AttendanceAppKing-Bridging-Header.h"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c6a710e7d99bdba1a1f5c7e914b8b307"

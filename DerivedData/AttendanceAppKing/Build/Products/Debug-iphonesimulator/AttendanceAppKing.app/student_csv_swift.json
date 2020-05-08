@@ -1,0 +1,102 @@
+var period1 = [
+  {
+    "Last Name": "Adams",
+    "First Name": "Dorian"
+  },
+  {
+    "Last Name": "Allison",
+    "First Name": "Tyler"
+  },
+  {
+    "Last Name": "Anum",
+    "First Name": "Angela"
+  },
+  {
+    "Last Name": "Chavers",
+    "First Name": "Kayla"
+  },
+  {
+    "Last Name": "Cooper",
+    "First Name": "Tyriana"
+  },
+  {
+    "Last Name": "Davis",
+    "First Name": "Amaya"
+  },
+  {
+    "Last Name": "Gayden",
+    "First Name": "Stephon"
+  },
+  {
+    "Last Name": "Hatchett",
+    "First Name": "Brad"
+  },
+  {
+    "Last Name": "Hooks",
+    "First Name": "Corey"
+  },
+  {
+    "Last Name": "Hopkins",
+    "First Name": "Micheal"
+  },
+  {
+    "Last Name": "Johnson",
+    "First Name": "Amya"
+  },
+  {
+    "Last Name": "Johnson",
+    "First Name": "Mavric"
+  },
+  {
+    "Last Name": "Kilpatrick",
+    "First Name": "David"
+  },
+  {
+    "Last Name": "Koomson",
+    "First Name": "Esi"
+  },
+  {
+    "Last Name": "Leaner",
+    "First Name": "Alicia"
+  },
+  {
+    "Last Name": "Long",
+    "First Name": "Orlando"
+  },
+  {
+    "Last Name": "Mcewen",
+    "First Name": "Anaya"
+  },
+  {
+    "Last Name": "Mims",
+    "First Name": "Laquan"
+  },
+  {
+    "Last Name": "Morgan",
+    "First Name": "Imani"
+  },
+  {
+    "Last Name": "Olongo",
+    "First Name": "Edmonde"
+  },
+  {
+    "Last Name": "Phillips",
+    "First Name": "Arionna"
+  },
+  {
+    "Last Name": "Porter",
+    "First Name": "Joshua"
+  },
+  {
+    "Last Name": "Reed",
+    "First Name": "Trevor"
+  },
+  {
+    "Last Name": "Robinson",
+    "First Name": "Kymiyah"
+  },
+  {
+    "Last Name": "Washington",
+    "First Name": "Erika"
+  }
+]

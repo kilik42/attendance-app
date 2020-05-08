@@ -1,0 +1,169 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StudentCell"
+provides-nominal:
+- "17AttendanceAppKing11StudentCellC"
+provides-member:
+- ["17AttendanceAppKing11StudentCellC", ""]
+provides-dynamic-lookup:
+- "absences"
+- "email"
+- "first_name"
+- "id"
+- "last_name"
+- "student"
+- "tardies"
+depends-top-level:
+- "Student"
+- "StudentCell"
+- "UICollectionViewCell"
+- "UILabel"
+depends-member:
+- ["So15CALayerDelegateP", ""]
+- ["s7CVarArgP", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", ""]
+- ["SQ", ""]
+- ["SH", ""]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", "Student"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "absences"]
+- ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "first_name"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "last_name"]
+- ["So8NSObjectC", "student"]
+- ["So8NSObjectC", "tardies"]
+- ["So8NSObjectP", ""]
+- ["17AttendanceAppKing11StudentCellC", "Student"]
+- ["17AttendanceAppKing11StudentCellC", "UILabel"]
+- ["17AttendanceAppKing11StudentCellC", "absences"]
+- ["17AttendanceAppKing11StudentCellC", "deinit"]
+- ["17AttendanceAppKing11StudentCellC", "email"]
+- ["17AttendanceAppKing11StudentCellC", "first_name"]
+- ["17AttendanceAppKing11StudentCellC", "id"]
+- ["17AttendanceAppKing11StudentCellC", "init"]
+- ["17AttendanceAppKing11StudentCellC", "last_name"]
+- ["17AttendanceAppKing11StudentCellC", "student"]
+- ["17AttendanceAppKing11StudentCellC", "tardies"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So12UIAppearanceP", ""]
+- ["So21UIAppearanceContainerP", ""]
+- ["So24UICollectionReusableViewC", "Student"]
+- ["So24UICollectionReusableViewC", "UILabel"]
+- ["So24UICollectionReusableViewC", "absences"]
+- ["So24UICollectionReusableViewC", "email"]
+- ["So24UICollectionReusableViewC", "first_name"]
+- ["So24UICollectionReusableViewC", "id"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So24UICollectionReusableViewC", "last_name"]
+- ["So24UICollectionReusableViewC", "student"]
+- ["So24UICollectionReusableViewC", "tardies"]
+- ["So20UICollectionViewCellC", "Student"]
+- ["So20UICollectionViewCellC", "UILabel"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "absences"]
+- ["So20UICollectionViewCellC", "email"]
+- ["So20UICollectionViewCellC", "first_name"]
+- ["So20UICollectionViewCellC", "id"]
+- ["So20UICollectionViewCellC", "init"]
+- ["So20UICollectionViewCellC", "last_name"]
+- ["So20UICollectionViewCellC", "student"]
+- ["So20UICollectionViewCellC", "tardies"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So13UIDynamicItemP", ""]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So11UIFocusItemP", ""]
+- ["So20UIFocusItemContainerP", ""]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Student"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "absences"]
+- ["So11UIResponderC", "email"]
+- ["So11UIResponderC", "first_name"]
+- ["So11UIResponderC", "id"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "last_name"]
+- ["So11UIResponderC", "student"]
+- ["So11UIResponderC", "tardies"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So18UITraitEnvironmentP", ""]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So6UIViewC", "Student"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "absences"]
+- ["So6UIViewC", "email"]
+- ["So6UIViewC", "first_name"]
+- ["So6UIViewC", "id"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "last_name"]
+- ["So6UIViewC", "student"]
+- ["So6UIViewC", "tardies"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "17AttendanceAppKing11StudentCellC"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/AttendanceAppKing-Bridging-Header.h"
+- "/Users/marvinevins/Library/Autosave Information/AttendanceAppKing/AttendanceAppKing/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cd3a2a6f47478e78a567140ba608fef5"
