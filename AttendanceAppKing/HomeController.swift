@@ -37,10 +37,11 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     //for parsing csv file
     func parseStudentCSV(){
-        let path = Bundle.main.path(forResource: "student", ofType: "csv")!
+        let path = Bundle.main.path(forResource: "MOCK_DATA", ofType: "csv")!
         do{
             let csv = try CSV(contentsOfURL: path)
             let rows = csv.rows
+            print(rows)
             
         }catch let err  as NSError{
             print(err.debugDescription)
@@ -55,7 +56,7 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
      func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "StudentCell", for: indexPath) as? StudentCell{
             
-            let student = Student(first_name: "dave", last_name: "donald", id: "3", email: "geraldman", gender: "M", tardy: 5, absence: 9)
+            let student = Student(first_name: "dave", last_name: "manning", id: "3", email: "gerald@gmail.com", gender: "M", tardy: 5, absence: 9)
             cell.configureCell(student:student)
                    return cell
                }else{
