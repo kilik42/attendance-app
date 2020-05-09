@@ -164,7 +164,7 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
 //
 //        clock.text = "time: \(timer.timeInterval)"
         
-        self.resetContent()
+        //self.resetContent()
     }
     
     
