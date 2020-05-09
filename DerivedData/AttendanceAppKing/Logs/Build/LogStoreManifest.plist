@@ -176,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>3541AE26-8DC1-4CD0-B6E8-EE226868C780</string>
 		</dict>
+		<key>4D6B1C4D-76E0-42D0-A681-560B407103AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D6B1C4D-76E0-42D0-A681-560B407103AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610687832.88348103</real>
+			<key>timeStoppedRecording</key>
+			<real>610687836.28504503</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>4D6B1C4D-76E0-42D0-A681-560B407103AD</string>
+		</dict>
 		<key>54BFD991-C658-4615-8367-F7666C6174F6</key>
 		<dict>
 			<key>className</key>
@@ -210,6 +244,40 @@
 			<key>uniqueIdentifier</key>
 			<string>54BFD991-C658-4615-8367-F7666C6174F6</string>
 		</dict>
+		<key>6ED3C64F-CFAB-4BA1-A2A5-AAA82318EAAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6ED3C64F-CFAB-4BA1-A2A5-AAA82318EAAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610688501.98990095</real>
+			<key>timeStoppedRecording</key>
+			<real>610688502.04089403</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>6ED3C64F-CFAB-4BA1-A2A5-AAA82318EAAB</string>
+		</dict>
 		<key>72B11353-81BA-4F55-93ED-86EA40F226B2</key>
 		<dict>
 			<key>className</key>
@@ -243,6 +311,40 @@
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>72B11353-81BA-4F55-93ED-86EA40F226B2</string>
+		</dict>
+		<key>7B42C804-3DE1-4E7A-A9CF-B139A554B983</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B42C804-3DE1-4E7A-A9CF-B139A554B983.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610686555.56694901</real>
+			<key>timeStoppedRecording</key>
+			<real>610686556.27013302</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>7B42C804-3DE1-4E7A-A9CF-B139A554B983</string>
 		</dict>
 		<key>7BF030EB-7D14-4777-915B-539907EA8A0D</key>
 		<dict>
