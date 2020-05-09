@@ -142,6 +142,40 @@
 			<key>uniqueIdentifier</key>
 			<string>20E9C4DA-1327-4698-B3AE-289E9DE96F99</string>
 		</dict>
+		<key>33303432-3BB7-4535-A90A-16B8A86B36DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33303432-3BB7-4535-A90A-16B8A86B36DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610690067.54974103</real>
+			<key>timeStoppedRecording</key>
+			<real>610690068.50815296</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>33303432-3BB7-4535-A90A-16B8A86B36DB</string>
+		</dict>
 		<key>3541AE26-8DC1-4CD0-B6E8-EE226868C780</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +209,40 @@
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>3541AE26-8DC1-4CD0-B6E8-EE226868C780</string>
+		</dict>
+		<key>45CCB532-F448-42A0-90F7-404CE5D7720B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45CCB532-F448-42A0-90F7-404CE5D7720B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610690441.35639501</real>
+			<key>timeStoppedRecording</key>
+			<real>610690442.41512001</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>45CCB532-F448-42A0-90F7-404CE5D7720B</string>
 		</dict>
 		<key>4D6B1C4D-76E0-42D0-A681-560B407103AD</key>
 		<dict>
@@ -379,6 +447,40 @@
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>7BF030EB-7D14-4777-915B-539907EA8A0D</string>
+		</dict>
+		<key>952CF92E-417D-4A8C-B7D8-1392BE83090F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>952CF92E-417D-4A8C-B7D8-1392BE83090F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610690069.71691799</real>
+			<key>timeStoppedRecording</key>
+			<real>610690069.75059497</real>
+			<key>title</key>
+			<string>Build AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>952CF92E-417D-4A8C-B7D8-1392BE83090F</string>
 		</dict>
 		<key>9C3D8D93-C650-43C1-9891-B906A80CEC4E</key>
 		<dict>

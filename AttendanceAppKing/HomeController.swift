@@ -31,13 +31,20 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
         collection.dataSource = self
         collection.delegate = self
         
+        parseStudentCSV()
         
     }
     
     //for parsing csv file
-    
     func parseStudentCSV(){
-        
+        let path = Bundle.main.path(forResource: "student", ofType: "csv")!
+        do{
+            let csv = try CSV(contentsOfURL: path)
+            let rows = csv.rows
+            
+        }catch let err  as NSError{
+            print(err.debugDescription)
+        }
     }
     
     
