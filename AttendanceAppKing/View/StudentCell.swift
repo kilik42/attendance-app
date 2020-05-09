@@ -40,7 +40,7 @@ class StudentCell: UICollectionViewCell {
 //        id.text = Double(self.student.id)
         
         
-        id.text = self.student.id
+       // id.text = self.student.id
         first_name.text = self.student.first_name.capitalized
         last_name.text = self.student.last_name.capitalized
         email.text = self.student.email

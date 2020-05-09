@@ -38,14 +38,14 @@ class Student{
         return _gender
     }
     
-    init(first_name: String, last_name:String, id:String, email:String, gender:String, tardy:Int, absence:Int  ){
-        self._id = id
+    init(first_name: String, last_name:String,  email:String, gender:String  ){
+        //self._id = id
         self._first_name = first_name
         self._last_name = last_name
         self._email = email
         self._gender = gender
-        self._tardy = tardy
-        self._absence = absence
+        //self._tardy = tardy
+        //self._absence = absence
         
         
     }

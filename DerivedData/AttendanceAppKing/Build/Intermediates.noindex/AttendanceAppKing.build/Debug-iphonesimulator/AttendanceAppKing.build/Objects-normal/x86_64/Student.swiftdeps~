@@ -6,11 +6,13 @@ provides-nominal:
 provides-member:
 - ["17AttendanceAppKing7StudentC", ""]
 provides-dynamic-lookup:
+- "_absence"
 - "_email"
 - "_first_name"
 - "_gender"
 - "_id"
 - "_last_name"
+- "_tardy"
 - "email"
 - "first_name"
 - "gender"
@@ -18,17 +20,21 @@ provides-dynamic-lookup:
 - "last_name"
 depends-top-level:
 - "AssignmentPrecedence"
+- "FloatLiteralType"
 - "Int"
+- "IntegerLiteralType"
 - "String"
 - "Student"
 depends-member:
 - ["17AttendanceAppKing7StudentC", "Int"]
 - ["17AttendanceAppKing7StudentC", "String"]
+- !private ["17AttendanceAppKing7StudentC", "_absence"]
 - !private ["17AttendanceAppKing7StudentC", "_email"]
 - !private ["17AttendanceAppKing7StudentC", "_first_name"]
 - !private ["17AttendanceAppKing7StudentC", "_gender"]
 - !private ["17AttendanceAppKing7StudentC", "_id"]
 - !private ["17AttendanceAppKing7StudentC", "_last_name"]
+- !private ["17AttendanceAppKing7StudentC", "_tardy"]
 - ["17AttendanceAppKing7StudentC", "deinit"]
 - ["17AttendanceAppKing7StudentC", "email"]
 - ["17AttendanceAppKing7StudentC", "first_name"]
@@ -68,4 +74,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "91dc2b482111a3d3edd437ed8b0ee869"
+interface-hash: "2fd356fc49b18094f8e0c19076c32f09"

@@ -43,6 +43,19 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
             let rows = csv.rows
             print(rows)
             
+            for row in rows {
+                //let id = Int(row["id"]!)!
+                let first_name = row["first_name"]!
+                let last_name = row["last_name"]!
+                let email = row["email"]!
+                let gender = row["gender"]!
+                
+                let stud = Student(first_name: first_name, last_name: last_name, email: email, gender: gender)
+                
+                student.append(stud)
+                
+                
+            }
         }catch let err  as NSError{
             print(err.debugDescription)
         }
@@ -56,8 +69,8 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
      func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "StudentCell", for: indexPath) as? StudentCell{
             
-            let student = Student(first_name: "dave", last_name: "manning", id: "3", email: "gerald@gmail.com", gender: "M", tardy: 5, absence: 9)
-            cell.configureCell(student:student)
+            let stud = student[indexPath.row]
+            cell.configureCell(student:stud)
                    return cell
                }else{
                    return UICollectionViewCell()
