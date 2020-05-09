@@ -32,6 +32,13 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     // end time elements of app.
     
     
+    
+    // colors
+    var colors = [Color(name: "absent", uiColor: UIColor.red),
+                  Color(name: "tardy", uiColor: UIColor.yellow),
+                  Color(name: "present", uiColor: UIColor.green),
+                ]
+    
     //button overlay of cell
     
     
@@ -113,6 +120,8 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
          return 30
      }
      
+    
+    
      func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "StudentCell", for: indexPath) as? StudentCell{
             
@@ -122,12 +131,28 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
                }else{
                    return UICollectionViewCell()
                }
-         
+        
+      
+        
+
+        
+//        let selectedCell:UICollectionViewCell = collectionView.cellForItem(at: indexPath)!
+//              selectedCell.contentView.backgroundColor = UIColor(red: 102/256, green: 255/256, blue: 255/256, alpha: 0.66)
+             
      }
     
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-       
+       let selectedCell:UICollectionViewCell = collectionView.cellForItem(at: indexPath)!
+        if selectedCell.isSelected && min > 45{
+            selectedCell.contentView.backgroundColor = UIColor.red
+        }
+        else if selectedCell.isSelected && min > 5{
+            selectedCell.contentView.backgroundColor = UIColor.yellow
+        }
+        else if selectedCell.isSelected && min < 5{
+            selectedCell.backgroundColor = UIColor.green
+        }
         
     }
     
@@ -147,7 +172,8 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     // start button
     @IBAction func start(_ sender: UIButton) {
         //self.removeSavedData()
-        self.timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
+        self.timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
+        counter()
     }
     @objc func counter(){
         seconds -= 1
@@ -170,8 +196,8 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     @IBAction func resumeBtn(_ sender: UIButton) {
         
-        //self.timer.fire()
-        self.timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
+        timer.fire()
+        //self.timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
 
     }
     
@@ -212,7 +238,7 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
 //        return (components.hour!, components.minute!, components.second!)
 //    }
     
-    
+    //refresh timer
     func refresh(hours: Int, mins: Int, secs: Int){
         self.hrs += hours
         self.min += mins
@@ -224,7 +250,7 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     }
     
     
-    
+    //maybe I want to save the daat  -- I will come back and work on this.
     func removeSavedData(){
         if(UserDefaults.standard.object(forKey: "savedTime") as? Date) != nil{
             UserDefaults.standard.removeObject(forKey: "savedTime")

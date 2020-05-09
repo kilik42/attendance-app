@@ -16,6 +16,7 @@
 		1030F2D624637D69000ED3A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1030F2D424637D69000ED3A7 /* Main.storyboard */; };
 		1030F2D824637D6A000ED3A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1030F2D724637D6A000ED3A7 /* Assets.xcassets */; };
 		1030F2DB24637D6A000ED3A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1030F2D924637D6A000ED3A7 /* LaunchScreen.storyboard */; };
+		1066DDE324676AF10056D47E /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1066DDE224676AF10056D47E /* Color.swift */; };
 		1098FC7824665B3E004467B5 /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098FC7724665B3E004467B5 /* csv.swift */; };
 		10F990762465023100198ED3 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F990752465023100198ED3 /* Student.swift */; };
 		10F990782465054400198ED3 /* MOCK_DATA.csv in Resources */ = {isa = PBXBuildFile; fileRef = 10F990772465054400198ED3 /* MOCK_DATA.csv */; };
@@ -37,6 +38,7 @@
 		1030F2D724637D6A000ED3A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1030F2DA24637D6A000ED3A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1030F2DC24637D6A000ED3A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1066DDE224676AF10056D47E /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		1098FC7724665B3E004467B5 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csv.swift; sourceTree = "<group>"; };
 		10F990752465023100198ED3 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 		10F990772465054400198ED3 /* MOCK_DATA.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MOCK_DATA.csv; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				100D79FD24638C6C00D8C250 /* AttendanceAppKing-Bridging-Header.h */,
 				100D7A0324638F7400D8C250 /* HomeController.swift */,
 				100D7A052463A74900D8C250 /* MenuTableViewController.swift */,
+				1066DDE224676AF10056D47E /* Color.swift */,
 			);
 			path = AttendanceAppKing;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				1098FC7824665B3E004467B5 /* csv.swift in Sources */,
 				1030F2D324637D69000ED3A7 /* ViewController.swift in Sources */,
 				100D7A0424638F7400D8C250 /* HomeController.swift in Sources */,
+				1066DDE324676AF10056D47E /* Color.swift in Sources */,
 				100D7A062463A74900D8C250 /* MenuTableViewController.swift in Sources */,
 				10F9907D24651FF200198ED3 /* StudentCell.swift in Sources */,
 				1030F2CF24637D69000ED3A7 /* AppDelegate.swift in Sources */,
