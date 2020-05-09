@@ -144,11 +144,16 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
        let selectedCell:UICollectionViewCell = collectionView.cellForItem(at: indexPath)!
+        // will change color on color and time duration on touch
         if selectedCell.isSelected && min > 45{
-            selectedCell.contentView.backgroundColor = UIColor.red
+            selectedCell.backgroundColor = UIColor.red
+            print("student is absent")
+            //and should add absence to list of absences
         }
         else if selectedCell.isSelected && min > 5{
-            selectedCell.contentView.backgroundColor = UIColor.yellow
+            selectedCell.backgroundColor = UIColor.yellow
+            print("student is tardy")
+            // and should add tardy to list of tardies
         }
         else if selectedCell.isSelected && min < 5{
             selectedCell.backgroundColor = UIColor.green
