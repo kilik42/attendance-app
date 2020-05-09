@@ -219,6 +219,7 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
 @class UICollectionView;
 @class UIBarButtonItem;
 @class UICollectionViewCell;
@@ -228,6 +229,8 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11AppDelegate")
 
 SWIFT_CLASS("_TtC17AttendanceAppKing14HomeController")
 @interface HomeController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified clock;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified date;
 @property (nonatomic, weak) IBOutlet UICollectionView * _Null_unspecified collection;
 @property (nonatomic, weak) IBOutlet UIBarButtonItem * _Null_unspecified menuButton;
 - (void)viewDidLoad;
@@ -236,6 +239,10 @@ SWIFT_CLASS("_TtC17AttendanceAppKing14HomeController")
 - (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 - (NSInteger)numberOfSectionsInCollectionView:(UICollectionView * _Nonnull)collectionView SWIFT_WARN_UNUSED_RESULT;
 - (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (IBAction)start:(id _Nonnull)sender;
+- (void)counter;
+- (IBAction)stopButton:(id _Nonnull)sender;
+- (IBAction)resetBtn:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -264,7 +271,6 @@ SWIFT_CLASS("_TtC17AttendanceAppKing13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UILabel;
 
 SWIFT_CLASS("_TtC17AttendanceAppKing11StudentCell")
 @interface StudentCell : UICollectionViewCell

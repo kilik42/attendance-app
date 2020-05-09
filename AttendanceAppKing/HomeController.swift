@@ -9,7 +9,20 @@
 import UIKit
 
 class HomeController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout{
- 
+    
+    
+    // time elements of app
+    var seconds = 3000
+    var timer = Timer()
+    var calendar = Calendar.current
+    
+    
+    @IBOutlet weak var clock: UILabel!
+    
+    @IBOutlet weak var date: UILabel!
+    // end time elements of app.
+    
+    
     @IBOutlet weak var collection: UICollectionView!
 
     @IBOutlet weak var menuButton: UIBarButtonItem!
@@ -32,6 +45,22 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
         collection.delegate = self
         
         parseStudentCSV()
+        
+        //begin  class clock text
+        seconds = 3000
+        clock.text = "50 minutes"
+        
+        //date
+        
+        let dateNow = Date()
+        let formatter = DateFormatter()
+        formatter.timeStyle = .medium
+        formatter.dateStyle = .long
+        
+        let dateTimeString = formatter.string(from: dateNow)
+        date.text = "Date:  \(dateTimeString)"
+        
+        
         
     }
     
@@ -91,6 +120,40 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         return CGSize(width: 142, height: 142)
     }
-
-
+    
+    
+    
+    
+    // time elements implementation
+    
+    // start button
+    @IBAction func start(_ sender: Any) {
+        
+        timer = Timer.scheduledTimer(timeInterval: 3000, target: self, selector: #selector(HomeController.counter), userInfo: nil, repeats: true)
+    }
+    @objc func counter(){
+        seconds -= 1
+        clock.text = String(seconds)
+        
+        if(seconds == 0){
+            timer.invalidate()
+        }
+    }
+    
+    
+    @IBAction func stopButton(_ sender: Any) {
+        timer.invalidate()
+        
+        clock.text = "time: \(String(seconds))"
+        
+        //to reset timer
+        //seconds = 3000
+    }
+    
+    
+    @IBAction func resetBtn(_ sender: Any) {
+        seconds = 3000
+        clock.text = "3000"
+    }
+    
 }

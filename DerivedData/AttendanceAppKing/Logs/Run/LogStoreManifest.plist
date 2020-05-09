@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>03E8D23F-C268-4C35-8F2D-8945109FC028</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03E8D23F-C268-4C35-8F2D-8945109FC028.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610698636.21909106</real>
+			<key>timeStoppedRecording</key>
+			<real>610698676.78446102</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>03E8D23F-C268-4C35-8F2D-8945109FC028</string>
+		</dict>
 		<key>03F12DBD-F178-44ED-91E5-6874E7BF7A5F</key>
 		<dict>
 			<key>className</key>
@@ -108,6 +142,40 @@
 			<key>uniqueIdentifier</key>
 			<string>14F25EA5-3618-4EAA-9AF1-69E85B5C820E</string>
 		</dict>
+		<key>1823A24D-8903-48AE-9FD2-AE99D87C2518</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1823A24D-8903-48AE-9FD2-AE99D87C2518.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610696440.97441196</real>
+			<key>timeStoppedRecording</key>
+			<real>610696450.74995005</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>1823A24D-8903-48AE-9FD2-AE99D87C2518</string>
+		</dict>
 		<key>1B18BA63-18C4-4E0A-98B7-E23A484C36D7</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +244,142 @@
 			<key>uniqueIdentifier</key>
 			<string>1B25A165-3E76-4E01-BB4B-679FB8D290E9</string>
 		</dict>
+		<key>1E7C9B88-F7D5-468C-8B88-10B51F56823E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1E7C9B88-F7D5-468C-8B88-10B51F56823E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697384.09533596</real>
+			<key>timeStoppedRecording</key>
+			<real>610697414.67889905</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>1E7C9B88-F7D5-468C-8B88-10B51F56823E</string>
+		</dict>
+		<key>21BBA3BB-199D-4507-84C8-145DCCA87B9D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>21BBA3BB-199D-4507-84C8-145DCCA87B9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610695037.10682595</real>
+			<key>timeStoppedRecording</key>
+			<real>610695074.46871102</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>21BBA3BB-199D-4507-84C8-145DCCA87B9D</string>
+		</dict>
+		<key>31482A32-0BB1-4255-BFF9-F66D8A0D0C9C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>31482A32-0BB1-4255-BFF9-F66D8A0D0C9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610698551.09384</real>
+			<key>timeStoppedRecording</key>
+			<real>610698593.08477604</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>31482A32-0BB1-4255-BFF9-F66D8A0D0C9C</string>
+		</dict>
+		<key>34EA5022-ECA2-4E58-85C1-DE4D0DB89891</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>34EA5022-ECA2-4E58-85C1-DE4D0DB89891.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610696921.78294206</real>
+			<key>timeStoppedRecording</key>
+			<real>610696964.76133096</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>34EA5022-ECA2-4E58-85C1-DE4D0DB89891</string>
+		</dict>
 		<key>392C1063-98B6-41E6-BECA-8C503D7E7B5C</key>
 		<dict>
 			<key>className</key>
@@ -209,6 +413,40 @@
 			<string>Run AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>392C1063-98B6-41E6-BECA-8C503D7E7B5C</string>
+		</dict>
+		<key>43C6C6EE-CFCE-4631-8319-F08020B8ADA6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>43C6C6EE-CFCE-4631-8319-F08020B8ADA6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697169.59274197</real>
+			<key>timeStoppedRecording</key>
+			<real>610697201.08134198</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>43C6C6EE-CFCE-4631-8319-F08020B8ADA6</string>
 		</dict>
 		<key>4F16CBAD-A54B-4FE4-987D-1BD0DDB45A95</key>
 		<dict>
@@ -244,6 +482,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4F16CBAD-A54B-4FE4-987D-1BD0DDB45A95</string>
 		</dict>
+		<key>57EC2F9C-8487-4B55-80E7-8FC9438C92D5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>57EC2F9C-8487-4B55-80E7-8FC9438C92D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610698452.78667903</real>
+			<key>timeStoppedRecording</key>
+			<real>610698487.59485197</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>57EC2F9C-8487-4B55-80E7-8FC9438C92D5</string>
+		</dict>
 		<key>5A084E79-3147-42E3-A819-B3D4B3CB9AAF</key>
 		<dict>
 			<key>className</key>
@@ -278,6 +550,40 @@
 			<key>uniqueIdentifier</key>
 			<string>5A084E79-3147-42E3-A819-B3D4B3CB9AAF</string>
 		</dict>
+		<key>617D24E7-2634-4A4E-9BB1-248EF2C9D3B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>617D24E7-2634-4A4E-9BB1-248EF2C9D3B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697267.01540804</real>
+			<key>timeStoppedRecording</key>
+			<real>610697310.416991</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>617D24E7-2634-4A4E-9BB1-248EF2C9D3B3</string>
+		</dict>
 		<key>64AB7BC4-C8DC-44C9-A79B-C92CAB3B5E77</key>
 		<dict>
 			<key>className</key>
@@ -311,6 +617,40 @@
 			<string>Run AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>64AB7BC4-C8DC-44C9-A79B-C92CAB3B5E77</string>
+		</dict>
+		<key>65EDE90E-4658-454D-B227-08E8EA5C950A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65EDE90E-4658-454D-B227-08E8EA5C950A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697338.55598295</real>
+			<key>timeStoppedRecording</key>
+			<real>610697368.83493495</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>65EDE90E-4658-454D-B227-08E8EA5C950A</string>
 		</dict>
 		<key>6E7EFFBC-E78A-4DD9-B78E-8D21446FB9AF</key>
 		<dict>
@@ -516,6 +856,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8701B8FE-ECD1-40C8-968C-5CB61B87AEF6</string>
 		</dict>
+		<key>88ECEA97-5A73-4C28-A8F5-5EF4F33BEE0B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>88ECEA97-5A73-4C28-A8F5-5EF4F33BEE0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697605.01639402</real>
+			<key>timeStoppedRecording</key>
+			<real>610697649.62804103</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>88ECEA97-5A73-4C28-A8F5-5EF4F33BEE0B</string>
+		</dict>
 		<key>9F63DCF7-88FE-4059-B4B9-CEF50BCD3831</key>
 		<dict>
 			<key>className</key>
@@ -550,6 +924,74 @@
 			<key>uniqueIdentifier</key>
 			<string>9F63DCF7-88FE-4059-B4B9-CEF50BCD3831</string>
 		</dict>
+		<key>AA6B053E-BE22-4A4B-9F18-491F2BF6A371</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AA6B053E-BE22-4A4B-9F18-491F2BF6A371.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610697452.97121894</real>
+			<key>timeStoppedRecording</key>
+			<real>610697479.53737104</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>AA6B053E-BE22-4A4B-9F18-491F2BF6A371</string>
+		</dict>
+		<key>B33D291B-E7E8-42DC-AD8B-C5D8E85BE869</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B33D291B-E7E8-42DC-AD8B-C5D8E85BE869.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610696503.51571</real>
+			<key>timeStoppedRecording</key>
+			<real>610696535.12818098</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>B33D291B-E7E8-42DC-AD8B-C5D8E85BE869</string>
+		</dict>
 		<key>BB726CB9-7F5E-47A5-BBA2-DB3246BF3D71</key>
 		<dict>
 			<key>className</key>
@@ -583,6 +1025,40 @@
 			<string>Run AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>BB726CB9-7F5E-47A5-BBA2-DB3246BF3D71</string>
+		</dict>
+		<key>BEC81EE2-561C-43D2-9853-77EF8F0EADC4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BEC81EE2-561C-43D2-9853-77EF8F0EADC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610694152.36827195</real>
+			<key>timeStoppedRecording</key>
+			<real>610694178.60674202</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>BEC81EE2-561C-43D2-9853-77EF8F0EADC4</string>
 		</dict>
 		<key>C02DE46B-38DD-41F3-9041-D954509EB416</key>
 		<dict>

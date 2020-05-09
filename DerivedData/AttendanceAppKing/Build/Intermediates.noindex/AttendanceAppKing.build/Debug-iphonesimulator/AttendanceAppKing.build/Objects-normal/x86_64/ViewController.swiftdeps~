@@ -6,80 +6,197 @@ provides-nominal:
 provides-member:
 - ["17AttendanceAppKing14ViewControllerC", ""]
 provides-dynamic-lookup:
+- "roundButton"
 - "viewDidLoad"
 depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- "UIButton"
 - "UIViewController"
 - "ViewController"
 depends-member:
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "masksToBounds"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "masksToBounds"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "masksToBounds"]
+- !private ["s7CVarArgP", "roundButton"]
 - !private ["s7CVarArgP", "viewDidLoad"]
 - ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "masksToBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "roundButton"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "layer"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "masksToBounds"]
+- !private ["s23CustomStringConvertibleP", "roundButton"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "layer"]
+- !private ["SE", "layer"]
 - ["SQ", ""]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "masksToBounds"]
+- !private ["SQ", "roundButton"]
 - !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "layer"]
 - ["SH", ""]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "layer"]
+- !private ["SH", "masksToBounds"]
+- !private ["SH", "roundButton"]
 - !private ["SH", "viewDidLoad"]
 - ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "masksToBounds"]
+- !private ["So8NSCodingP", "roundButton"]
 - !private ["So8NSCodingP", "viewDidLoad"]
 - ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "roundButton"]
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "cornerRadius"]
 - ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "masksToBounds"]
+- ["So8NSObjectC", "roundButton"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "masksToBounds"]
+- !private ["So8NSObjectP", "roundButton"]
 - !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "masksToBounds"]
+- !private ["Sq", "layer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "layer"]
 - ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "roundButton"]
 - !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "layer"]
 - ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "roundButton"]
 - !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "layer"]
 - ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "roundButton"]
 - !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So24UILargeContentViewerItemP", "layer"]
 - ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "roundButton"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "UIButton"]
 - ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "roundButton"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "roundButton"]
 - !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
 - ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "roundButton"]
 - !private ["So16UIStateRestoringP", "viewDidLoad"]
 - ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "roundButton"]
 - !private ["So18UITraitEnvironmentP", "viewDidLoad"]
 - ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "roundButton"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "layer"]
+- ["So16UIViewControllerC", "UIButton"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "roundButton"]
 - ["So16UIViewControllerC", "viewDidLoad"]
+- ["17AttendanceAppKing14ViewControllerC", "UIButton"]
 - ["17AttendanceAppKing14ViewControllerC", "deinit"]
 - ["17AttendanceAppKing14ViewControllerC", "init"]
+- ["17AttendanceAppKing14ViewControllerC", "roundButton"]
 - ["17AttendanceAppKing14ViewControllerC", "viewDidLoad"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "masksToBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "roundButton"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerRadius"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "masksToBounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "roundButton"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "layer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
 depends-nominal:
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
 - "s7CVarArgP"
 - "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
 - "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
 - "SQ"
+- !private "s23ExpressibleByNilLiteralP"
 - "SH"
 - "So8NSCodingP"
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
 - "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
 - "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
 - "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
 - "So30UIPasteConfigurationSupportingP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
 - "So16UIStateRestoringP"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
 - "So16UIViewControllerC"
 - "17AttendanceAppKing14ViewControllerC"
 - "10Foundation27_KeyValueCodingAndObservingP"
 - "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
@@ -110,4 +227,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "939bb7e8c3a7b4567ab8b8d960798a84"
+interface-hash: "3160231121e4ec50f7eca00d79eb45c0"
