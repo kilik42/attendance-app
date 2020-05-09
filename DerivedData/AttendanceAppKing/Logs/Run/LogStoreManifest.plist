@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>03F12DBD-F178-44ED-91E5-6874E7BF7A5F</string>
 		</dict>
+		<key>0EA5D6D9-092A-415E-89F5-96C20767C297</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0EA5D6D9-092A-415E-89F5-96C20767C297.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610693559.22644496</real>
+			<key>timeStoppedRecording</key>
+			<real>610693887.49461496</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>0EA5D6D9-092A-415E-89F5-96C20767C297</string>
+		</dict>
 		<key>14F25EA5-3618-4EAA-9AF1-69E85B5C820E</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +107,40 @@
 			<string>Run AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>14F25EA5-3618-4EAA-9AF1-69E85B5C820E</string>
+		</dict>
+		<key>1B18BA63-18C4-4E0A-98B7-E23A484C36D7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1B18BA63-18C4-4E0A-98B7-E23A484C36D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610692608.09503305</real>
+			<key>timeStoppedRecording</key>
+			<real>610692671.09077704</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>1B18BA63-18C4-4E0A-98B7-E23A484C36D7</string>
 		</dict>
 		<key>1B25A165-3E76-4E01-BB4B-679FB8D290E9</key>
 		<dict>
@@ -311,6 +379,40 @@
 			<string>Run AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
 			<string>6FC101F3-E148-4127-88BD-36EB66EE3B49</string>
+		</dict>
+		<key>6FD03B04-ADA7-4F93-9B88-B564A5C9044E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6FD03B04-ADA7-4F93-9B88-B564A5C9044E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AttendanceAppKing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AttendanceAppKing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run AttendanceAppKing</string>
+			<key>timeStartedRecording</key>
+			<real>610692997.04563701</real>
+			<key>timeStoppedRecording</key>
+			<real>610693043.01107204</real>
+			<key>title</key>
+			<string>Run AttendanceAppKing</string>
+			<key>uniqueIdentifier</key>
+			<string>6FD03B04-ADA7-4F93-9B88-B564A5C9044E</string>
 		</dict>
 		<key>7F89822D-E293-4FC0-ACC3-501C6CC95A42</key>
 		<dict>

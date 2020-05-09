@@ -37,13 +37,15 @@ depends-top-level:
 - "UICollectionViewDelegateFlowLayout"
 - "UICollectionViewLayout"
 - "UIViewController"
-- !private "UnicodeScalarType"
 - !private "print"
 depends-member:
 - !private ["Sa", "append"]
 - ["Sa", "init"]
+- !private ["Sa", "subscript"]
 - !private ["SK", "append"]
 - ["SK", "init"]
+- !private ["SK", "row"]
+- !private ["SK", "subscript"]
 - !private ["So8NSBundleC", "main"]
 - !private ["So8NSBundleC", "path"]
 - !private ["So15CALayerDelegateP", "addGestureRecognizer"]
@@ -110,9 +112,12 @@ depends-member:
 - ["s7CVarArgP", "viewForZoomingInScrollView"]
 - !private ["Sl", "append"]
 - ["Sl", "init"]
+- !private ["Sl", "row"]
 - !private ["Sl", "subscript"]
+- !private ["SL", "row"]
 - !private ["10Foundation15ContiguousBytesP", "append"]
 - ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
 - !private ["s28CustomDebugStringConvertibleP", "Bundle"]
 - !private ["s28CustomDebugStringConvertibleP", "CGSize"]
 - !private ["s28CustomDebugStringConvertibleP", "CSV"]
@@ -146,6 +151,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "print"]
 - !private ["s28CustomDebugStringConvertibleP", "revealToggle"]
 - !private ["s28CustomDebugStringConvertibleP", "revealViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
 - ["s28CustomDebugStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
 - ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDecelerating"]
 - ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDragging"]
@@ -173,6 +179,7 @@ depends-member:
 - !private ["s17CustomReflectableP", "delegate"]
 - ["s17CustomReflectableP", "init"]
 - !private ["s17CustomReflectableP", "panGestureRecognizer"]
+- !private ["s17CustomReflectableP", "row"]
 - !private ["s17CustomReflectableP", "subscript"]
 - !private ["s17CustomReflectableP", "target"]
 - !private ["s23CustomStringConvertibleP", "Bundle"]
@@ -208,6 +215,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "print"]
 - !private ["s23CustomStringConvertibleP", "revealToggle"]
 - !private ["s23CustomStringConvertibleP", "revealViewController"]
+- !private ["s23CustomStringConvertibleP", "row"]
 - ["s23CustomStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
 - ["s23CustomStringConvertibleP", "scrollViewDidEndDecelerating"]
 - ["s23CustomStringConvertibleP", "scrollViewDidEndDragging"]
@@ -230,6 +238,7 @@ depends-member:
 - ["s23CustomStringConvertibleP", "viewForZoomingInScrollView"]
 - !private ["10Foundation12DataProtocolP", "append"]
 - ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
 - !private ["Se", "action"]
 - !private ["Se", "addGestureRecognizer"]
 - !private ["Se", "append"]
@@ -237,6 +246,7 @@ depends-member:
 - !private ["Se", "delegate"]
 - ["Se", "init"]
 - !private ["Se", "panGestureRecognizer"]
+- !private ["Se", "row"]
 - !private ["Se", "subscript"]
 - !private ["Se", "target"]
 - !private ["SD", "subscript"]
@@ -247,6 +257,7 @@ depends-member:
 - !private ["SE", "delegate"]
 - ["SE", "init"]
 - !private ["SE", "panGestureRecognizer"]
+- !private ["SE", "row"]
 - !private ["SE", "subscript"]
 - !private ["SE", "target"]
 - !private ["SQ", "Bundle"]
@@ -282,6 +293,7 @@ depends-member:
 - !private ["SQ", "print"]
 - !private ["SQ", "revealToggle"]
 - !private ["SQ", "revealViewController"]
+- !private ["SQ", "row"]
 - ["SQ", "scrollViewDidChangeAdjustedContentInset"]
 - ["SQ", "scrollViewDidEndDecelerating"]
 - ["SQ", "scrollViewDidEndDragging"]
@@ -305,6 +317,8 @@ depends-member:
 - !private ["s5ErrorP", "debugDescription"]
 - !private ["s25ExpressibleByArrayLiteralP", "append"]
 - ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
 - !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
 - !private ["s23ExpressibleByNilLiteralP", "action"]
 - !private ["s23ExpressibleByNilLiteralP", "addGestureRecognizer"]
@@ -345,6 +359,7 @@ depends-member:
 - !private ["SH", "print"]
 - !private ["SH", "revealToggle"]
 - !private ["SH", "revealViewController"]
+- !private ["SH", "row"]
 - ["SH", "scrollViewDidChangeAdjustedContentInset"]
 - ["SH", "scrollViewDidEndDecelerating"]
 - ["SH", "scrollViewDidEndDragging"]
@@ -411,10 +426,14 @@ depends-member:
 - ["17AttendanceAppKing14HomeControllerC", "viewDidLoad"]
 - ["17AttendanceAppKing14HomeControllerC", "viewForZooming"]
 - ["17AttendanceAppKing14HomeControllerC", "viewForZoomingInScrollView"]
+- !private ["10Foundation9IndexPathV", "row"]
 - !private ["SM", "append"]
 - ["SM", "init"]
+- !private ["SM", "row"]
+- !private ["SM", "subscript"]
 - !private ["10Foundation19MutableDataProtocolP", "append"]
 - ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
 - !private ["So8NSCodingP", "Bundle"]
 - !private ["So8NSCodingP", "CGSize"]
 - !private ["So8NSCodingP", "CSV"]
@@ -623,12 +642,17 @@ depends-member:
 - !private ["Sq", "target"]
 - !private ["Sk", "append"]
 - ["Sk", "init"]
+- !private ["Sk", "row"]
+- !private ["Sk", "subscript"]
 - !private ["Sm", "append"]
 - ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
 - !private ["So22SWRevealViewControllerC", "panGestureRecognizer"]
 - !private ["So22SWRevealViewControllerC", "revealToggle"]
 - !private ["ST", "append"]
 - ["ST", "init"]
+- !private ["ST", "row"]
 - !private ["ST", "subscript"]
 - !private ["17AttendanceAppKing7StudentC", "init"]
 - !private ["17AttendanceAppKing11StudentCellC", "configureCell"]
@@ -1315,11 +1339,14 @@ depends-member:
 - ["So16UIViewControllerC", "viewForZoomingInScrollView"]
 - !private ["s14_ArrayProtocolP", "append"]
 - ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "init"]
 - !private ["s24_DestructorSafeContainerP", "append"]
 - ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
 - !private ["s19_HasContiguousBytesP", "append"]
 - ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
 - ["s35_HasCustomAnyHashableRepresentationP", "init"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
@@ -1432,6 +1459,7 @@ depends-member:
 - !private ["s21_ObjectiveCBridgeableP", "delegate"]
 - ["s21_ObjectiveCBridgeableP", "init"]
 - !private ["s21_ObjectiveCBridgeableP", "panGestureRecognizer"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
 - !private ["s21_ObjectiveCBridgeableP", "subscript"]
 - !private ["s21_ObjectiveCBridgeableP", "target"]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
@@ -1449,6 +1477,7 @@ depends-nominal:
 - !private "17AttendanceAppKing3CSVC"
 - "s7CVarArgP"
 - "Sl"
+- !private "SL"
 - "10Foundation15ContiguousBytesP"
 - "s28CustomDebugStringConvertibleP"
 - "s17CustomReflectableP"
@@ -1464,6 +1493,7 @@ depends-nominal:
 - !private "s23ExpressibleByNilLiteralP"
 - "SH"
 - "17AttendanceAppKing14HomeControllerC"
+- !private "10Foundation9IndexPathV"
 - "SM"
 - "10Foundation19MutableDataProtocolP"
 - "So8NSCodingP"
@@ -1476,6 +1506,7 @@ depends-nominal:
 - !private "Sq"
 - "Sk"
 - "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
 - !private "So22SWRevealViewControllerC"
 - "ST"
 - !private "17AttendanceAppKing7StudentC"
