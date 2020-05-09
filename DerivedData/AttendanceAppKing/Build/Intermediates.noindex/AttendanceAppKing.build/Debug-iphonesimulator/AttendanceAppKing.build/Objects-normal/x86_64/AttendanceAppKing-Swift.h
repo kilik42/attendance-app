@@ -187,6 +187,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreGraphics;
+@import Foundation;
 @import UIKit;
 #endif
 
@@ -218,14 +219,23 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UICollectionView;
 @class UIBarButtonItem;
+@class UICollectionViewCell;
+@class UICollectionViewLayout;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC17AttendanceAppKing14HomeController")
-@interface HomeController : UIViewController
+@interface HomeController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
+@property (nonatomic, weak) IBOutlet UICollectionView * _Null_unspecified collection;
 @property (nonatomic, weak) IBOutlet UIBarButtonItem * _Null_unspecified menuButton;
 - (void)viewDidLoad;
+- (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UICollectionViewCell * _Nonnull)collectionView:(UICollectionView * _Nonnull)collectionView cellForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+- (NSInteger)numberOfSectionsInCollectionView:(UICollectionView * _Nonnull)collectionView SWIFT_WARN_UNUSED_RESULT;
+- (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -264,8 +274,8 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11StudentCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified email;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified tardies;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified absences;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
 @class UIButton;

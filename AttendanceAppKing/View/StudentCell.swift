@@ -24,7 +24,14 @@ class StudentCell: UICollectionViewCell {
     @IBOutlet weak var tardies: UILabel!
     
     @IBOutlet weak var absences: UILabel!
+    
     var student: Student!
+    
+    required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
+        
+        layer.cornerRadius = 5.0
+    }
     
     
     func configureCell (student: Student){

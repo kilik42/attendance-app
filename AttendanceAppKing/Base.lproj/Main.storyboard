@@ -99,8 +99,8 @@
                                         <constraint firstAttribute="height" constant="70" id="pQL-JP-ocY"/>
                                     </constraints>
                                 </imageView>
-                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Teacher" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4bi-Lr-mng">
-                                    <rect key="frame" x="110" y="36" width="284" height="59"/>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Teacher" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4bi-Lr-mng">
+                                    <rect key="frame" x="110" y="36" width="264" height="31"/>
                                     <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="26"/>
                                     <nil key="textColor"/>
                                     <nil key="highlightedColor"/>
@@ -108,9 +108,10 @@
                             </subviews>
                             <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <constraints>
-                                <constraint firstAttribute="trailing" secondItem="4bi-Lr-mng" secondAttribute="trailing" constant="20" id="ArK-b8-ZQH"/>
                                 <constraint firstItem="Kv3-hS-w48" firstAttribute="top" secondItem="hck-4D-E5N" secondAttribute="top" constant="25" id="Lm0-8X-LsB"/>
-                                <constraint firstItem="4bi-Lr-mng" firstAttribute="leading" secondItem="Kv3-hS-w48" secondAttribute="trailing" constant="20" id="MUj-mn-ptZ"/>
+                                <constraint firstItem="4bi-Lr-mng" firstAttribute="leading" secondItem="Kv3-hS-w48" secondAttribute="trailing" constant="20" id="TBq-49-udc"/>
+                                <constraint firstItem="4bi-Lr-mng" firstAttribute="top" secondItem="hck-4D-E5N" secondAttribute="top" constant="36" id="dNP-Qz-WyK"/>
+                                <constraint firstAttribute="trailing" secondItem="4bi-Lr-mng" secondAttribute="trailing" constant="40" id="gd5-rG-Yr2"/>
                                 <constraint firstItem="Kv3-hS-w48" firstAttribute="leading" secondItem="hck-4D-E5N" secondAttribute="leading" constant="20" id="j5A-Yv-5bV"/>
                             </constraints>
                         </view>
@@ -124,8 +125,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="6Ph-lM-eoT">
-                                                    <rect key="frame" x="20" y="9" width="30" height="43"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="6Ph-lM-eoT">
+                                                    <rect key="frame" x="20" y="15" width="30" height="30"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="30" id="fp1-nK-TUw"/>
                                                         <constraint firstAttribute="width" constant="30" id="m5e-P9-JBi"/>
@@ -140,6 +141,7 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="6Ph-lM-eoT" firstAttribute="leading" secondItem="fZf-69-9M6" secondAttribute="leading" constant="20" id="3pf-t0-NrG"/>
+                                                <constraint firstItem="6Ph-lM-eoT" firstAttribute="centerY" secondItem="f34-gQ-ZqJ" secondAttribute="centerY" id="U5k-Ze-PV0"/>
                                                 <constraint firstItem="f34-gQ-ZqJ" firstAttribute="leading" secondItem="6Ph-lM-eoT" secondAttribute="trailing" constant="20" id="Xkk-3D-ezO"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="f34-gQ-ZqJ" secondAttribute="trailing" constant="20" id="htz-u3-bOp"/>
                                                 <constraint firstItem="f34-gQ-ZqJ" firstAttribute="centerY" secondItem="fZf-69-9M6" secondAttribute="centerY" id="tGh-3b-TZo"/>
@@ -157,8 +159,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="viA-x7-dCc">
-                                                    <rect key="frame" x="20" y="9" width="30" height="43"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="viA-x7-dCc">
+                                                    <rect key="frame" x="20" y="15" width="30" height="30"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="30" id="4P3-ET-jch"/>
                                                         <constraint firstAttribute="width" constant="30" id="F6D-a9-jF6"/>
@@ -172,6 +174,7 @@
                                                 </label>
                                             </subviews>
                                             <constraints>
+                                                <constraint firstItem="viA-x7-dCc" firstAttribute="centerY" secondItem="JTn-R7-iCF" secondAttribute="centerY" id="IKH-vS-KIm"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="JTn-R7-iCF" secondAttribute="trailing" constant="20" id="VvB-hQ-h6l"/>
                                                 <constraint firstItem="JTn-R7-iCF" firstAttribute="centerY" secondItem="c5R-pu-9IH" secondAttribute="centerY" id="XRt-Fw-2LO"/>
                                                 <constraint firstItem="JTn-R7-iCF" firstAttribute="leading" secondItem="viA-x7-dCc" secondAttribute="trailing" constant="20" id="ZrY-bk-psP"/>
@@ -187,8 +190,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="oE4-1q-upQ">
-                                                    <rect key="frame" x="20" y="9" width="30" height="43"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="oE4-1q-upQ">
+                                                    <rect key="frame" x="20" y="15" width="30" height="30"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="30" id="IIg-cO-6DH"/>
                                                         <constraint firstAttribute="height" constant="30" id="td6-7g-ggA"/>
@@ -206,6 +209,7 @@
                                                 <constraint firstItem="oE4-1q-upQ" firstAttribute="leading" secondItem="CFu-HY-Nbr" secondAttribute="leading" constant="20" id="Vrb-tr-HYi"/>
                                                 <constraint firstItem="5kX-5v-H3k" firstAttribute="leading" secondItem="oE4-1q-upQ" secondAttribute="trailing" constant="20" id="eUv-36-bur"/>
                                                 <constraint firstItem="5kX-5v-H3k" firstAttribute="centerY" secondItem="CFu-HY-Nbr" secondAttribute="centerY" id="ffy-mI-HWw"/>
+                                                <constraint firstItem="oE4-1q-upQ" firstAttribute="centerY" secondItem="5kX-5v-H3k" secondAttribute="centerY" id="sqY-nY-cun"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -217,8 +221,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="O4b-gU-Aom">
-                                                    <rect key="frame" x="20" y="9" width="30" height="43"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="O4b-gU-Aom">
+                                                    <rect key="frame" x="20" y="15" width="30" height="30"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="30" id="0N0-bo-HYO"/>
                                                         <constraint firstAttribute="height" constant="30" id="tJO-gl-cv2"/>
@@ -234,6 +238,7 @@
                                             <constraints>
                                                 <constraint firstItem="O4b-gU-Aom" firstAttribute="leading" secondItem="Aek-ep-J3Z" secondAttribute="leading" constant="20" id="5jS-NO-W4Z"/>
                                                 <constraint firstItem="gZc-r7-4FZ" firstAttribute="leading" secondItem="O4b-gU-Aom" secondAttribute="trailing" constant="20" id="9f1-kr-ieX"/>
+                                                <constraint firstItem="O4b-gU-Aom" firstAttribute="centerY" secondItem="gZc-r7-4FZ" secondAttribute="centerY" id="PyG-nV-nDM"/>
                                                 <constraint firstItem="gZc-r7-4FZ" firstAttribute="centerY" secondItem="Aek-ep-J3Z" secondAttribute="centerY" id="oFy-SS-9Hz"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="gZc-r7-4FZ" secondAttribute="trailing" constant="20" id="sQW-ME-S8o"/>
                                             </constraints>
@@ -247,8 +252,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="4sa-Ed-k9e">
-                                                    <rect key="frame" x="20" y="9" width="30" height="43"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screensho" translatesAutoresizingMaskIntoConstraints="NO" id="4sa-Ed-k9e">
+                                                    <rect key="frame" x="20" y="15" width="30" height="30"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="30" id="0AJ-3m-0oJ"/>
                                                         <constraint firstAttribute="width" constant="30" id="6gr-Qw-dpB"/>
@@ -263,6 +268,7 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstAttribute="trailingMargin" secondItem="PJL-CP-m1R" secondAttribute="trailing" constant="20" id="3gN-s7-bE3"/>
+                                                <constraint firstItem="4sa-Ed-k9e" firstAttribute="centerY" secondItem="PJL-CP-m1R" secondAttribute="centerY" id="7rB-7Q-yMb"/>
                                                 <constraint firstItem="PJL-CP-m1R" firstAttribute="centerY" secondItem="ypp-3Q-wtg" secondAttribute="centerY" id="B5A-oR-pmj"/>
                                                 <constraint firstItem="PJL-CP-m1R" firstAttribute="leading" secondItem="4sa-Ed-k9e" secondAttribute="trailing" constant="20" id="d2d-M1-4V8"/>
                                                 <constraint firstItem="4sa-Ed-k9e" firstAttribute="leading" secondItem="ypp-3Q-wtg" secondAttribute="leading" constant="20" id="w9q-Wg-7mM"/>
@@ -302,7 +308,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="ssn-9I-16u" customClass="StudentCell" customModule="AttendanceAppKing" customModuleProvider="target">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="StudentCell" id="ssn-9I-16u" customClass="StudentCell" customModule="AttendanceAppKing" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="142" height="142"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="TkI-1M-Twf">
@@ -373,6 +379,7 @@
                                                 </label>
                                             </subviews>
                                         </collectionViewCellContentView>
+                                        <color key="backgroundColor" systemColor="systemGray5Color" red="0.8980392157" green="0.8980392157" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <size key="customSize" width="142" height="142"/>
                                         <connections>
                                             <outlet property="absences" destination="jHx-Bi-OVL" id="dYY-K2-NxT"/>
@@ -442,6 +449,7 @@
                     </navigationItem>
                     <splitViewDetailSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                     <connections>
+                        <outlet property="collection" destination="aXU-mh-a0i" id="QiG-ZR-WCc"/>
                         <outlet property="menuButton" destination="Mrc-GM-13e" id="jny-3L-Vmz"/>
                     </connections>
                 </viewController>

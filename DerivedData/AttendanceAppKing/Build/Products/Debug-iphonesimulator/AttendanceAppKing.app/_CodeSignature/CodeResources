@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		CxkNzrU0PqBRsLQltRzboDJkvtc=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		0gm9BJ24h6UDZi8MKQ78ANjJf2s=
+		6sj1bgOp2TG6dLGa7NX89ND2D7Q=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -22,43 +26,43 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		zCoVzkmGhI1IEciZuYnIKzfTgX0=
+		z8kP+0DNeF5I/MMln/Ade5kqtDE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/I7R-4D-24K-view-Ezw-rC-prl.nib</key>
 		<data>
-		0Q2TTraIo8iZFNrWBadzJ+NeI6A=
+		DXl4E+YJWhmiN8wTNogoI9HO+Wk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		8vJ6FEHYmbLkgKGIIn3LN1KPmlw=
+		Rwzk1/Eb1cBx6qb0GkadUwfIJTc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-XZt-yb-Ctr.nib</key>
 		<data>
-		QeXFSB/6FVT1++gj/VBgPmVQNGM=
+		v4I5fr1YW7p1zDCI9turM3Ss6FE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-I7R-4D-24K.nib</key>
 		<data>
-		upgtPNw1Ki+yop0rOaDouYtL6EM=
+		WRM5u1AdKeuFYD4zSXBKpd/WqYQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		m4GMaeaR/w5cjh5VemNM2nueUcs=
+		K2Ry1yQuz0ytbl2eEoPmBKUQc1g=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-UNM-KI-7he.nib</key>
 		<data>
-		91u+mcFvocLh/HwVCpl21opJ4BE=
+		wdCWDvavTkOCIZS67KkSwpNTj0U=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UNM-KI-7he-view-wfI-mD-mbS.nib</key>
 		<data>
-		O/GDb3lYBdDdZnOx2WUtf18r2Eg=
+		PyUlidtARVEOh6fRnv+ufskD61k=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Wmi-e7-PSc-view-jAk-R1-VsM.nib</key>
 		<data>
-		xClbhfeHWLYQqhL3eCTLPyfRZLA=
+		1fItW48Gr159F4Y6j/Qo56/jBlc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Nd8X9A94XR1xSyWW44eSsBMJkVE=
+		wQRdYR/cfKczKDggO2n4LPoNrrg=
 		</data>
 		<key>MOCK_DATA.csv</key>
 		<data>
@@ -75,11 +79,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FQ7yiKBq6pFa+VrAZZHPVGvZTCi/8ejlHKgCq1x7Qi4=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			axNJakBZxsMQpqF8H/nPvUsHs8oYAt1Mi9Lw0L4lZZM=
+			ftAxMDvCpdDOwXGVdt1d1DhkaxFm2+YtCFuTISpfVrE=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -107,63 +118,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KxHGtd9Q0Y4fRMzs+eSqALlaUmxJhnuLHiMLsHwNwkI=
+			BA/DSgshkopBwNKtXXbUBwCmOROAs0DENspyS+OTeqo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/I7R-4D-24K-view-Ezw-rC-prl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6A3+t7So1Q0B5cGfzqRRCKXZVGC+Ityslp5eH+RMu4=
+			0ArW7e3tSEb0poDzRoMgLBx0/Tt9XGCxRtpi/DnR/a0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QC4uxgb2Arudi2fx3bThORDWMuYJUd6BA0HnI0fUQ0w=
+			+70G1/D99B6p3q+NFj4U2T8fz9/kwpmCyAig08xVmn0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-XZt-yb-Ctr.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JOoqseN2JZk50p8qQxVlpWYUzOX/jATpijBygWRszo=
+			77ZL5rsFTFTVg/fCvIekcZaxzDF/uWvK0tBgH/Ph6pU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-I7R-4D-24K.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DzJxY5mWtMUZ5pEQc7reLbUkDY9and5PO3sQ9lyW0Qs=
+			z/4tRiDqdSC7m1ZSb+cVAbFvZMIzjWKbsUQIGk+B4NU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I2AusiZeriQOuEPLta90LYjJHrgi/PDy5rKOMvkaO7c=
+			YDCYAHijx1OyRbiqWGPl+G1i5DCmds4jIiYLDN1EHMA=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-UNM-KI-7he.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ir7HGK15JJpFcsQgV9DNsgXy39X08H/MarQQcI306JA=
+			MKrOZwfX0ANRFAl2GgoSVR/0LtAPkrcKsMzHAkAxn0E=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UNM-KI-7he-view-wfI-mD-mbS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7+rEHgN+B8WAMqiZph9h+5W2BUttqyD5LksjsUT3To8=
+			NOEKGBFhwBlcNM20ZFJr8Y+2RcIMRuBcmas3cSBolik=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Wmi-e7-PSc-view-jAk-R1-VsM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJXrLCLl4NtekD6sirHnHbKyidY0i763qmTNTO9xiGQ=
+			TLCelXjpWj88CVq8sBRx9R/AQoxWRPyqRNp+MWpuGU4=
 			</data>
 		</dict>
 		<key>MOCK_DATA.csv</key>
