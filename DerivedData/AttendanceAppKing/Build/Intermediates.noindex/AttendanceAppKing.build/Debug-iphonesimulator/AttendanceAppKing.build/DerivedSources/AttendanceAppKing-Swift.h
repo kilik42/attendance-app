@@ -224,6 +224,8 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11AppDelegate")
 @class UIBarButtonItem;
 @class UICollectionViewCell;
 @class UICollectionViewLayout;
+@class UIButton;
+@class NSTimer;
 @class NSBundle;
 @class NSCoder;
 
@@ -239,10 +241,12 @@ SWIFT_CLASS("_TtC17AttendanceAppKing14HomeController")
 - (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 - (NSInteger)numberOfSectionsInCollectionView:(UICollectionView * _Nonnull)collectionView SWIFT_WARN_UNUSED_RESULT;
 - (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (IBAction)start:(id _Nonnull)sender;
+- (IBAction)start:(UIButton * _Nonnull)sender;
 - (void)counter;
 - (IBAction)stopButton:(id _Nonnull)sender;
-- (IBAction)resetBtn:(id _Nonnull)sender;
+- (IBAction)resumeBtn:(UIButton * _Nonnull)sender;
+- (IBAction)resetButton:(id _Nonnull)sender;
+- (void)updateLabelsWithT:(NSTimer * _Nonnull)t;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -284,7 +288,6 @@ SWIFT_CLASS("_TtC17AttendanceAppKing11StudentCell")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
-@class UIButton;
 
 SWIFT_CLASS("_TtC17AttendanceAppKing14ViewController")
 @interface ViewController : UIViewController

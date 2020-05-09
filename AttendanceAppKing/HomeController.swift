@@ -16,11 +16,28 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     var timer = Timer()
     var calendar = Calendar.current
     
+       //clock variables
+    //note : later refactor into its own file
+        var hrs = 0
+        var min = 0
+        var sec = 0
+        var diffHrs = 0
+        var diffSecs = 0
+       //end clock variables
+    
     
     @IBOutlet weak var clock: UILabel!
     
     @IBOutlet weak var date: UILabel!
     // end time elements of app.
+    
+    
+    //button overlay of cell
+    
+    
+    
+    //end button overlay of cell
+    
     
     
     @IBOutlet weak var collection: UICollectionView!
@@ -48,10 +65,10 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         //begin  class clock text
         seconds = 3000
-        clock.text = "50 minutes"
+        clock.text = "00:00:00"
         
         //date
-        
+        // have to refactor this somewhere into its own file
         let dateNow = Date()
         let formatter = DateFormatter()
         formatter.timeStyle = .medium
@@ -59,6 +76,7 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         let dateTimeString = formatter.string(from: dateNow)
         date.text = "Date:  \(dateTimeString)"
+        //end date
         
         
         
@@ -127,9 +145,9 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     // time elements implementation
     
     // start button
-    @IBAction func start(_ sender: Any) {
-        
-        timer = Timer.scheduledTimer(timeInterval: 3000, target: self, selector: #selector(HomeController.counter), userInfo: nil, repeats: true)
+    @IBAction func start(_ sender: UIButton) {
+        //self.removeSavedData()
+        self.timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
     }
     @objc func counter(){
         seconds -= 1
@@ -142,18 +160,75 @@ class HomeController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     
     @IBAction func stopButton(_ sender: Any) {
-        timer.invalidate()
+        self.timer.invalidate()
+//
+//        clock.text = "time: \(timer.timeInterval)"
         
-        clock.text = "time: \(String(seconds))"
-        
-        //to reset timer
-        //seconds = 3000
+        self.resetContent()
     }
     
     
-    @IBAction func resetBtn(_ sender: Any) {
-        seconds = 3000
-        clock.text = "3000"
+    @IBAction func resumeBtn(_ sender: UIButton) {
+        
+        //self.timer.fire()
+        self.timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(HomeController.updateLabels(t:)), userInfo: nil, repeats: true)
+
+    }
+    
+    @IBAction func resetButton(_ sender: Any) {
+        timer.invalidate()
+        clock.text = "00:00:00"
+    }
+    
+    
+    func resetContent(){
+        timer.invalidate()
+        self.clock.text = "00:00:00"
+        self.sec = 0
+        self.min = 0
+        self.hrs = 0
+        
+    }
+    
+    @objc func updateLabels(t: Timer){
+        if (self.sec == 59){
+            self.min += 1
+            self.sec = 0
+            if(self.min == 60){
+                self.hrs += 1
+                self.min = 0
+            }
+        }else{
+            self.sec += 1
+        }
+        self.clock.text = String(format: "%02d : %02d :%02d", self.hrs, self.min, self.sec)
+    }
+    
+    
+    //get time difference
+//    static func getTimeDifference(startDate: Date)-> ( Int, Int, Int){
+//        let calendar = Calendar.current
+//        let components = calendar.dateComponents(.hour, .minute, .second, from: startDate, to: Date())
+//        return (components.hour!, components.minute!, components.second!)
+//    }
+    
+    
+    func refresh(hours: Int, mins: Int, secs: Int){
+        self.hrs += hours
+        self.min += mins
+        self.sec += secs
+        self.clock.text = String(format: "%02d : %02d :%02d", self.hrs, self.min, self.sec)
+        self.timer = Timer.scheduledTimer(timeInterval: 3600, target: self, selector: (#selector(HomeController.updateLabels(t:))), userInfo: nil, repeats: true)
+    
+    
+    }
+    
+    
+    
+    func removeSavedData(){
+        if(UserDefaults.standard.object(forKey: "savedTime") as? Date) != nil{
+            UserDefaults.standard.removeObject(forKey: "savedTime")
+        }
     }
     
 }
