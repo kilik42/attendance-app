@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0446328B-13E7-4D48-BA66-61EFD9274E89</key>
+		<key>53B6C9FF-690B-4612-A8C5-8D4D13F89FBB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0446328B-13E7-4D48-BA66-61EFD9274E89.xcactivitylog</string>
+			<string>53B6C9FF-690B-4612-A8C5-8D4D13F89FBB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build AttendanceAppKing</string>
 			<key>timeStartedRecording</key>
-			<real>610748563.94108999</real>
+			<real>610761895.83731103</real>
 			<key>timeStoppedRecording</key>
-			<real>610748563.98936999</real>
+			<real>610761896.78291297</real>
 			<key>title</key>
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
-			<string>0446328B-13E7-4D48-BA66-61EFD9274E89</string>
+			<string>53B6C9FF-690B-4612-A8C5-8D4D13F89FBB</string>
 		</dict>
-		<key>1AE9ED36-278F-4D53-9690-87DA732FFF7A</key>
+		<key>B274422C-921B-4F09-9B15-8A384D567A3D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1AE9ED36-278F-4D53-9690-87DA732FFF7A.xcactivitylog</string>
+			<string>B274422C-921B-4F09-9B15-8A384D567A3D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build AttendanceAppKing</string>
 			<key>timeStartedRecording</key>
-			<real>610701600.95413899</real>
+			<real>610762356.37616098</real>
 			<key>timeStoppedRecording</key>
-			<real>610701601.00946903</real>
+			<real>610762360.87984896</real>
 			<key>title</key>
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
-			<string>1AE9ED36-278F-4D53-9690-87DA732FFF7A</string>
+			<string>B274422C-921B-4F09-9B15-8A384D567A3D</string>
 		</dict>
-		<key>1C968BC6-09FB-49A8-B2D4-4180CE2B5BA4</key>
+		<key>D5E3B199-9100-45FA-9CB7-40188A7E503B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1C968BC6-09FB-49A8-B2D4-4180CE2B5BA4.xcactivitylog</string>
+			<string>D5E3B199-9100-45FA-9CB7-40188A7E503B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Build AttendanceAppKing</string>
 			<key>timeStartedRecording</key>
-			<real>610750441.86662698</real>
+			<real>610763551.81969905</real>
 			<key>timeStoppedRecording</key>
-			<real>610750443.10107303</real>
+			<real>610763553.15845597</real>
 			<key>title</key>
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
-			<string>1C968BC6-09FB-49A8-B2D4-4180CE2B5BA4</string>
+			<string>D5E3B199-9100-45FA-9CB7-40188A7E503B</string>
 		</dict>
-		<key>1FC2DACE-BC5A-4ED3-A268-96009C5DE009</key>
+		<key>E5300755-DA09-48E5-AF9C-E0E37985263F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1FC2DACE-BC5A-4ED3-A268-96009C5DE009.xcactivitylog</string>
+			<string>E5300755-DA09-48E5-AF9C-E0E37985263F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Build AttendanceAppKing</string>
 			<key>timeStartedRecording</key>
-			<real>610751806.99496496</real>
+			<real>610762363.73451197</real>
 			<key>timeStoppedRecording</key>
-			<real>610751808.46344399</real>
+			<real>610762364.75774097</real>
 			<key>title</key>
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
-			<string>1FC2DACE-BC5A-4ED3-A268-96009C5DE009</string>
+			<string>E5300755-DA09-48E5-AF9C-E0E37985263F</string>
 		</dict>
-		<key>207FD392-7B3F-4084-989A-B2AB50FDF750</key>
+		<key>F35ADE58-BD96-4812-A48F-D6FEECFDC9C2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>207FD392-7B3F-4084-989A-B2AB50FDF750.xcactivitylog</string>
+			<string>F35ADE58-BD96-4812-A48F-D6FEECFDC9C2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,795 +168,13 @@
 			<key>signature</key>
 			<string>Build AttendanceAppKing</string>
 			<key>timeStartedRecording</key>
-			<real>610751552.71693695</real>
+			<real>610764340.84220302</real>
 			<key>timeStoppedRecording</key>
-			<real>610751554.05367696</real>
+			<real>610764341.91110206</real>
 			<key>title</key>
 			<string>Build AttendanceAppKing</string>
 			<key>uniqueIdentifier</key>
-			<string>207FD392-7B3F-4084-989A-B2AB50FDF750</string>
-		</dict>
-		<key>25710F61-3D94-496C-B9C8-F24021493884</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>25710F61-3D94-496C-B9C8-F24021493884.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610748560.23922002</real>
-			<key>timeStoppedRecording</key>
-			<real>610748561.56006706</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>25710F61-3D94-496C-B9C8-F24021493884</string>
-		</dict>
-		<key>35467C9E-017D-478E-BF6C-04B8A32ED134</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>35467C9E-017D-478E-BF6C-04B8A32ED134.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610751630.48238099</real>
-			<key>timeStoppedRecording</key>
-			<real>610751631.77325702</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>35467C9E-017D-478E-BF6C-04B8A32ED134</string>
-		</dict>
-		<key>3871EE21-1A71-4809-8D8F-4279FAB0709B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3871EE21-1A71-4809-8D8F-4279FAB0709B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610759054.39016402</real>
-			<key>timeStoppedRecording</key>
-			<real>610759055.420856</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>3871EE21-1A71-4809-8D8F-4279FAB0709B</string>
-		</dict>
-		<key>38F8897D-1C35-46C9-9FE3-A005BB6179B5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>38F8897D-1C35-46C9-9FE3-A005BB6179B5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610752174.00378501</real>
-			<key>timeStoppedRecording</key>
-			<real>610752175.26136398</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>38F8897D-1C35-46C9-9FE3-A005BB6179B5</string>
-		</dict>
-		<key>3D90A151-F409-4E84-A548-187FDEB0CA8B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3D90A151-F409-4E84-A548-187FDEB0CA8B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610753704.45911098</real>
-			<key>timeStoppedRecording</key>
-			<real>610753705.80100405</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>3D90A151-F409-4E84-A548-187FDEB0CA8B</string>
-		</dict>
-		<key>4494741B-4BC7-454A-9680-C922DA836F8F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4494741B-4BC7-454A-9680-C922DA836F8F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610759910.61626196</real>
-			<key>timeStoppedRecording</key>
-			<real>610759910.65038395</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>4494741B-4BC7-454A-9680-C922DA836F8F</string>
-		</dict>
-		<key>45878EF2-F05C-427B-82FC-661A2A5E3E51</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>45878EF2-F05C-427B-82FC-661A2A5E3E51.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610753445.28476202</real>
-			<key>timeStoppedRecording</key>
-			<real>610753446.65143096</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>45878EF2-F05C-427B-82FC-661A2A5E3E51</string>
-		</dict>
-		<key>4BF065C1-238B-4EDD-A2BB-8FBBFF42D9A4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4BF065C1-238B-4EDD-A2BB-8FBBFF42D9A4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610758645.63215399</real>
-			<key>timeStoppedRecording</key>
-			<real>610758645.67398798</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>4BF065C1-238B-4EDD-A2BB-8FBBFF42D9A4</string>
-		</dict>
-		<key>58AE0A04-D2A5-46AF-8CBD-77AEFD18E70E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>58AE0A04-D2A5-46AF-8CBD-77AEFD18E70E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610752016.62695801</real>
-			<key>timeStoppedRecording</key>
-			<real>610752017.84694302</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>58AE0A04-D2A5-46AF-8CBD-77AEFD18E70E</string>
-		</dict>
-		<key>74843E21-E49B-4E21-BA6A-CBCAE434F515</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>74843E21-E49B-4E21-BA6A-CBCAE434F515.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610758987.93759</real>
-			<key>timeStoppedRecording</key>
-			<real>610758991.42238295</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>74843E21-E49B-4E21-BA6A-CBCAE434F515</string>
-		</dict>
-		<key>9769D001-D6C5-43DD-B0F6-A7206963F1CA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9769D001-D6C5-43DD-B0F6-A7206963F1CA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610754586.09972095</real>
-			<key>timeStoppedRecording</key>
-			<real>610754587.39626706</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>9769D001-D6C5-43DD-B0F6-A7206963F1CA</string>
-		</dict>
-		<key>AC9C2527-BD25-4EE4-9FAA-6DA723C4B423</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AC9C2527-BD25-4EE4-9FAA-6DA723C4B423.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610750270.59829295</real>
-			<key>timeStoppedRecording</key>
-			<real>610750270.63294697</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>AC9C2527-BD25-4EE4-9FAA-6DA723C4B423</string>
-		</dict>
-		<key>AD8E836A-0ECB-43B9-B1F1-BE05FCA09B0D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AD8E836A-0ECB-43B9-B1F1-BE05FCA09B0D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610750263.53663397</real>
-			<key>timeStoppedRecording</key>
-			<real>610750264.931234</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>AD8E836A-0ECB-43B9-B1F1-BE05FCA09B0D</string>
-		</dict>
-		<key>BA0E2787-84DD-4873-8F99-B0F77D63A3BE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BA0E2787-84DD-4873-8F99-B0F77D63A3BE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610758639.70794797</real>
-			<key>timeStoppedRecording</key>
-			<real>610758641.036219</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>BA0E2787-84DD-4873-8F99-B0F77D63A3BE</string>
-		</dict>
-		<key>BC60632A-9FB2-47FD-B12F-2D6AF0DD52E4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BC60632A-9FB2-47FD-B12F-2D6AF0DD52E4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610752260.14444101</real>
-			<key>timeStoppedRecording</key>
-			<real>610752261.41307199</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>BC60632A-9FB2-47FD-B12F-2D6AF0DD52E4</string>
-		</dict>
-		<key>BE2B2405-DA5C-4017-9A9E-34CB286485AA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BE2B2405-DA5C-4017-9A9E-34CB286485AA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610757039.30126798</real>
-			<key>timeStoppedRecording</key>
-			<real>610757040.33950496</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>BE2B2405-DA5C-4017-9A9E-34CB286485AA</string>
-		</dict>
-		<key>C45699D5-1077-4501-A255-02396A39CCA7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C45699D5-1077-4501-A255-02396A39CCA7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610760419.57047403</real>
-			<key>timeStoppedRecording</key>
-			<real>610760419.63362598</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>C45699D5-1077-4501-A255-02396A39CCA7</string>
-		</dict>
-		<key>CC490E40-5685-4CCD-8CBC-CA105408E713</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CC490E40-5685-4CCD-8CBC-CA105408E713.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610759530.90561998</real>
-			<key>timeStoppedRecording</key>
-			<real>610759530.94136</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>CC490E40-5685-4CCD-8CBC-CA105408E713</string>
-		</dict>
-		<key>D1B00A9C-BFFD-4C2D-A1B6-B43180E62C8D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D1B00A9C-BFFD-4C2D-A1B6-B43180E62C8D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610750997.14059401</real>
-			<key>timeStoppedRecording</key>
-			<real>610750998.43612301</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>D1B00A9C-BFFD-4C2D-A1B6-B43180E62C8D</string>
-		</dict>
-		<key>D901A177-5A30-4F56-8E28-23FAF275B0F9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D901A177-5A30-4F56-8E28-23FAF275B0F9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610750331.772241</real>
-			<key>timeStoppedRecording</key>
-			<real>610750333.07005799</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>D901A177-5A30-4F56-8E28-23FAF275B0F9</string>
-		</dict>
-		<key>DA83EF53-9550-4D33-944A-46113FCE5388</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DA83EF53-9550-4D33-944A-46113FCE5388.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610759518.31947005</real>
-			<key>timeStoppedRecording</key>
-			<real>610759519.68656003</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>DA83EF53-9550-4D33-944A-46113FCE5388</string>
-		</dict>
-		<key>EACF6D25-7FD1-4967-B42F-03F25AA7BC8A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EACF6D25-7FD1-4967-B42F-03F25AA7BC8A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610752141.54193699</real>
-			<key>timeStoppedRecording</key>
-			<real>610752142.78204703</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>EACF6D25-7FD1-4967-B42F-03F25AA7BC8A</string>
-		</dict>
-		<key>EBDAB289-F658-4423-AF74-A07D22547429</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EBDAB289-F658-4423-AF74-A07D22547429.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>AttendanceAppKing project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>AttendanceAppKing</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build AttendanceAppKing</string>
-			<key>timeStartedRecording</key>
-			<real>610759909.24928999</real>
-			<key>timeStoppedRecording</key>
-			<real>610759910.51861703</real>
-			<key>title</key>
-			<string>Build AttendanceAppKing</string>
-			<key>uniqueIdentifier</key>
-			<string>EBDAB289-F658-4423-AF74-A07D22547429</string>
+			<string>F35ADE58-BD96-4812-A48F-D6FEECFDC9C2</string>
 		</dict>
 	</dict>
 </dict>

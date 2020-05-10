@@ -284,6 +284,7 @@
                             <outlet property="delegate" destination="I7R-4D-24K" id="HCw-vl-OWY"/>
                         </connections>
                     </tableView>
+                    <navigationItem key="navigationItem" id="dl8-Aw-a4i"/>
                     <splitViewDetailSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fw6-pR-D5i" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
